@@ -1,0 +1,106 @@
+[{
+    "id": 1,
+    "name": "Robert Lewandowski",
+    "image":"https://i.ibb.co/d2p1hZP/robert-lewandowski.png",
+    "salary": "4500",
+    "team": "Bayern Munich / Poland",
+    "age": "Female"
+  }, {
+    "id": 2,
+    "name": "Lionel Messi",
+    "image":"https://i.ibb.co/m8z0vtH/Messi.png",
+    "salary": "7000",
+    "team": "Barcelona / Argentina",
+    "age": "Agender"
+  }, {
+    "id": 3,
+    "name": "Cristiano Ronaldo",
+    "image":"https://i.ibb.co/DpJzdm4/Cristiano-ronaldo-png-2.png",
+    "salary": "7000",
+    "team": "Juventus / Portugal",
+    "age": "Polygender"
+  }, {
+    "id": 4,
+    "name": "ShiKevin De Bruyner",
+    "image":"https://i.ibb.co/dDwLFxp/P61366.png",
+    "salary": "7500",
+    "team": "Manchester City / Belgium",
+    "age": "Non-binary"
+  }, {
+    "id": 5,
+    "name": "Sadio Mané",
+    "image":"https://i.ibb.co/tKd8tRP/Sadio-Mane-PNG-Download-Image.png",
+    "salary": "4900",
+    "team": "Liverpool / Senegal",
+    "age": "Female"
+  }, {
+    "id": 6,
+    "name": "Erling Braut Haaland",
+    "image":"https://i.ibb.co/W3QZj8G/Unnamed.png",
+    "salary": "6000",
+    "team": "Borussia Dortmund / Norway",
+    "age": "Female"
+  }, {
+    "id": 7,
+    "name": "Kylian Mbappé",
+    "image":"https://i.ibb.co/3YzVvPC/Kylian-mbappe-young-player-award-transparent-png-stickpng-kylian-mbappe-png-3000-2040.png",
+    "salary": "3500",
+    "team": "Paris St-Germain / France",
+    "age": "Agender"
+  }, {
+    "id": 8,
+    "name": "Mohamed Salah",
+    "image":"https://i.ibb.co/bRPV9CM/Mohamed-Salah.png",
+    "salary": "5700",
+    "team": "Liverpool / Egypt",
+    "age": "Polygender"
+  }, {
+    "id": 9,
+    "name": "Neymar",
+    "image":"https://i.ibb.co/vZXBNHh/312-3120379-neymar-2016-17-season.png",
+    "salary":"8000",
+    "team": "Paris St-Germain / Brazil",
+    "age": "Genderfluid"
+  }, {
+    "id": 11,
+    "name": "Virgil van Dijk",
+    "image":"https://i.ibb.co/ZLb1jd8/79a8ba9c7260aaab173933b44cdc38ec.png",
+    "salary": "8350",
+    "team": "Liverpool / Netherlands",
+    "age": "Female"
+  }, {
+    "id": 12,
+    "name": "Joshua Kimmich",
+    "image":"https://i.ibb.co/DGWWNJt/Rosto-jogador-15498-1539951041.png",
+    "salary": "6300",
+    "team": "Bayern Munich / Germany",
+    "age": "Genderfluid"
+  }, {
+    "id": 13,
+    "name": "Karim Benzema",
+    "image":"https://i.ibb.co/4fspTDt/Ea-Zhc-FDX0-AEQa-MF.jpg", 
+    "salary": "7790",
+    "team": "Real Madrid / France",
+    "age": "Male"
+  }, {
+    "id": 14,
+    "name": "Sergio Ramos",
+    "image":"https://i.ibb.co/ck3qYg6/709-7099746-sergio-ramos-sergio-ramos-real-madrid-2019-2020.png",
+    "salary": "8860",
+    "team": "Real Madrid / Spain",
+    "age": "Genderfluid"
+  }, {
+    "id": 15,
+    "name": "Thomas Müller",
+    "image":"https://i.ibb.co/LPG5XRr/thomas-muller-3554-152-ub-800-mobile.png",
+    "salary": "2775",
+    "team": "Bayern Munich / Germany",
+    "age": "Genderfluid"
+  }, {
+    "id": 16,
+    "name": "Manuel Neuer",
+    "image": "https://i.ibb.co/th45G0r/13-134726-manuel-neuerrender-fc-bayern-munich-neuer-hd-png.png",
+    "salary": "5699",
+    "team": "Bayern Munich / Germany",
+    "age": "Female"
+  }]
